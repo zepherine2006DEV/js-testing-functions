@@ -8,7 +8,7 @@ This project contains the code I've created to support my testing.
 
 ## How to Install
 
-to do
+* Include assert.js as a scipt tag.
 
 ## How to Use
 
@@ -17,6 +17,11 @@ to do
 ## Testing
 
 The api functions can be tested in a browser javascript console.
+
+```console
+>  assertEqual(2,2);
+<= Pass 
+```
 
 ## User Stories
 
