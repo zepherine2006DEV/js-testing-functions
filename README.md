@@ -10,14 +10,12 @@ This project contains the code I've created to support my testing.
 
 * Include assert.js as a script tag.
 * Include describe.js as a script tag.
-* Create a separate javascript file to contain the tests.
-  * Include this as a script tag.
-  * See the sample-tests.js file for an example.
+* Update the sample-tests.js to reference your tests.
 
 ## How to Use
 
-* Run the function which contains all the tests in the console.
-  * See the sample-tests.js file for an example.
+* Update the sample-tests.js to reference your tests.
+* Go to the index.html page and view the console output.
 
 ## Testing
 
