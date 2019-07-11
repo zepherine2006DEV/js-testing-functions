@@ -1,7 +1,7 @@
 var assertEqual = function(actual, expected) {
   if (!(actual === expected)) {
-    return "Fail!";
+    console.log("    Fail!");
   } else {
-    return "Pass";
+    console.log("    Pass");
   }
 }
