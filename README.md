@@ -21,11 +21,17 @@ This project contains the code I've created to support my testing.
 
 ## Testing
 
-The api functions can be tested in a browser javascript console.
+The individual functions can be unit tested in a browser javascript console.
 
 ```console
 >  assertEqual(2,2);
 <= Pass 
+```
+
+A sample test suite file (sample-tests.js) is also included in the project, acting as a feature test. This can be run in the console by running the testSuite function within the file.
+
+```javascript
+testSuite();
 ```
 
 ## User Stories
